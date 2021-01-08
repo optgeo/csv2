@@ -15,6 +15,7 @@
   "pitch": 56,
   "sources": {
     "i": {
+      "attribution": "長野県林業総合センター",
       "maxzoom": 18,
       "minzoom": 8,
       "tileSize": 256,
