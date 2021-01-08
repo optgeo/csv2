@@ -1,0 +1,29 @@
+{
+  "bearing": 28.6,
+  "center": [
+    138.062579,
+    36.121696
+  ],
+  "layers": [
+    {
+      "id": "i",
+      "maxzoom": 22,
+      "source": "i",
+      "type": "raster"
+    }
+  ],
+  "pitch": 56,
+  "sources": {
+    "i": {
+      "maxzoom": 18,
+      "minzoom": 8,
+      "tileSize": 256,
+      "tiles": [
+        "https://tile.geospatial.jp/CS/VER2/{z}/{x}/{y}.png"
+      ],
+      "type": "raster"
+    }
+  },
+  "version": 8,
+  "zoom": 15
+}
